@@ -85,3 +85,5 @@ python helloswag.py
 # Start training
 python gpt_model.py
 ```
+# License
+This project is open-source and uses the MIT License.
