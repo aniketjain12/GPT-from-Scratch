@@ -66,7 +66,7 @@ This overview encapsulates the sequential steps taken in the project: from model
 ## Setup & Training
 
 Requires Python ≥3.10, PyTorch ≥2.1, and a CUDA-enabled GPU (optional but recommended)
-`
+```bash
 # Clone the repo
 git clone [https://github.com/your-username/build-nanoGPT-from-scratch.gi](https://github.com/aniketjain12/GPT-from-Scratch.git)t
 cd GPT-from-Scratch
@@ -80,4 +80,4 @@ pip install -r requirements.txt
 
 # Start training
 python train.py
-`
+```
