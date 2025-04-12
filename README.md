@@ -63,3 +63,20 @@ The project is structured around the following key steps:
 
 This overview encapsulates the sequential steps taken in the project: from model design and data handling to training optimization and inference, providing a clear pathway through the code base.
 
+## Setup & Training
+
+Requires Python ≥3.10, PyTorch ≥2.1, and a CUDA-enabled GPU (optional but recommended)
+
+# Clone the repo
+git clone https://github.com/your-username/build-nanoGPT-from-scratch.git
+cd build-nanoGPT-from-scratch
+
+# (Optional) Create a virtual environment
+python -m venv venv
+source venv/bin/activate
+
+# Install requirements
+pip install -r requirements.txt
+
+# Start training
+python train.py
