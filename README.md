@@ -78,6 +78,10 @@ source venv/bin/activate
 # Install requirements
 pip install -r requirements.txt
 
+# Install Data Sets
+python finewine.py
+python helloswag.py
+
 # Start training
-python train.py
+python gpt_model.py
 ```
