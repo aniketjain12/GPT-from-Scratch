@@ -68,7 +68,7 @@ This overview encapsulates the sequential steps taken in the project: from model
 Requires Python ≥3.10, PyTorch ≥2.1, and a CUDA-enabled GPU (optional but recommended)
 ```bash
 # Clone the repo
-git clone [https://github.com/your-username/build-nanoGPT-from-scratch.gi](https://github.com/aniketjain12/GPT-from-Scratch.git)t
+git clone https://github.com/aniketjain12/GPT-from-Scratch.git
 cd GPT-from-Scratch
 
 # (Optional) Create a virtual environment
