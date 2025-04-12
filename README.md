@@ -20,7 +20,7 @@ This project is perfect for those who want to go beyond using pretrained models 
 
 - [Attention is All You Need](https://arxiv.org/abs/1706.03762)
 - [OpenAI GPT-3 paper](https://arxiv.org/abs/2005.14165)
-- [OpenAI GPT-2 paper]([https://d4mucfpksywv.cloudfront.net/b...](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+- [OpenAI GPT-2 paper](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 - [Flash Attention](https://arxiv.org/abs/2205.14135)
 
 
