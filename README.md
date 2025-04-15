@@ -1,4 +1,4 @@
-# GPT-from-Scratch
+# Reproduced-GPT2-from-Scratch
 
 ## Overview
 
